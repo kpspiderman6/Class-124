@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url("2.jpg");
+    color: darkslategrey;
+
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: darkviolet;
+    color: floralwhite;
+}
+canvas{
+    border: rgb(3, 56, 58) solid ;
+    border-radius: 5px;
+    background-color: crimson;
+    border-width: 5px;
+}
